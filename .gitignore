@@ -1,0 +1,7 @@
+obj/
+bin/
+Model.g.fs
+symbolCache.db
+.ionide
+.domainCache
+BenchmarkDotNet.Artifacts/
